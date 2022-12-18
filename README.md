@@ -1,5 +1,5 @@
 ### Date created
-This the third project on Udacity Started at Dec 12, 2022 and finished at Dec 18, 2022.
+This is the third project on Udacity Started at Dec 12, 2022 and finished at Dec 18, 2022.
 
 ### Project Title
 Post your Work on GitHub
